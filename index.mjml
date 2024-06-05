@@ -1,0 +1,458 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    />
+    <mj-attributes>
+      <mj-all
+        font-family="Montserrat, sans-serif"
+        padding="0"
+        align="center"
+      ></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .link {color: inherit !important; text-decoration: none !important; }
+      .m-10 {margin: 0 10px !important}
+    </mj-style>
+    <mj-title>Emailling 1</mj-title>
+  </mj-head>
+  <mj-body background-color="#F3FCF6">
+    <mj-section background-color="#60BA7A">
+      <mj-column width="100%" padding-top="30px">
+        <mj-image
+          width="106px"
+          src="https://i.ibb.co/7y07VHz/image-2.png"
+          alt="logo"
+        />
+      </mj-column>
+      <mj-column width="15%" padding-top="30px">
+        <mj-text font-size="15px" color="#fff">
+          <a href="https://exemple.com/" class="link m-10">Why us</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%" padding-top="30px">
+        <mj-text font-size="15px" color="#fff">
+          <a href="https://exemple.com/" class="link m-10">Blog</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="15%" padding-top="30px">
+        <mj-text font-size="15px" color="#fff">
+          <a href="https://exemple.com/" class="link m-10">Contact</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column width="100%">
+        <mj-image src="https://i.ibb.co/4PSWx60/image-1.png" alt="image-1" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column width="100%">
+        <mj-text
+          font-size="22px"
+          color="#61ba7a"
+          padding="10px 0"
+          font-weight="400"
+          letter-spacing="3px"
+          >CELEBRATE</mj-text
+        >
+        <mj-text
+          font-size="40px"
+          color="#61ba7a"
+          padding="10px 0"
+          font-weight="500"
+          letter-spacing="3px"
+          >EARTH DAY</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column width="100%" padding-top="30px">
+        <mj-image
+          src="https://i.ibb.co/S05T4z7/image-3.png"
+          alt="image-3"
+          alt="image-3"
+          width="480px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column width="100%" padding-top="50px">
+        <mj-text
+          color="#61ba7a"
+          font-size="22px"
+          font-weight="400"
+          letter-spacing="3px"
+          >What is Earth Day</mj-text
+        >
+        <mj-text
+          color="#225431"
+          font-size="15px"
+          font-weight="400"
+          line-height="23px"
+          padding-top="40px"
+          >Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+          <br />
+          nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+          <br />
+          volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
+          <br />
+          ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+          <br />
+          Duis autem vel eum iriure dolor in hendrerit in vulputate velit es
+        </mj-text>
+        <mj-button
+          padding-top="50px"
+          background-color="#FFD200"
+          color="#215431"
+          href="https://exemple.com/"
+          font-size="16px"
+          font-weight="500"
+          width="30%"
+          >READ MORE</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column width="100%" padding-top="80px">
+        <mj-text
+          font-size="40px"
+          color="#61ba7a"
+          padding="10px 0"
+          font-weight="500"
+          letter-spacing="3px"
+          >What you can do
+        </mj-text>
+        <mj-text
+          font-size="22px"
+          color="#61ba7a"
+          padding="10px 0"
+          font-weight="400"
+          letter-spacing="3px"
+        >
+          TO LIVE A GREEN LIFE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding-top="35px">
+      <mj-column width="50%" padding="20px">
+        <mj-image src="https://i.ibb.co/TWsZrSf/image-4.png" alt="image-4" />
+      </mj-column>
+      <mj-column width="50%" padding="10px" padding-top="50px">
+        <mj-text
+          font-size="24px"
+          color="#61ba7a"
+          font-weight="400"
+          padding-bottom="20px"
+          letter-spacing="3px"
+          align="left"
+        >
+          Recycle & reuse
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="16px"
+          color="#225431"
+          line-height="22px"
+        >
+          Lorem ipsum dolor sit amet, <br />
+          consectetur adipiscing elit, sed <br />
+          diam nonummy nibh euismod <br />
+          tincidunt ut laoreet dolore magna
+        </mj-text>
+        <mj-button
+          align="left"
+          background-color="#fff"
+          color="#225431"
+          border="2px solid #FFD200"
+          border-radius="4px"
+          padding-top="20px"
+          width="65%"
+          font-size="16px"
+          href="https://exemple.com/"
+        >
+          READ MORE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding-top="35px">
+      <mj-column width="50%" padding="10px" padding-top="50px">
+        <mj-text
+          align="right"
+          font-size="24px"
+          color="#61ba7a"
+          font-weight="400"
+          padding-bottom="20px"
+          letter-spacing="3px"
+          line-height="28px"
+        >
+          Care for the <br />
+          environment
+        </mj-text>
+        <mj-text
+          align="right"
+          font-size="16px"
+          color="#225431"
+          line-height="22px"
+        >
+          Lorem ipsum dolor sit amet, <br />
+          consectetur adipiscing elit, sed <br />
+          diam nonummy nibh euismod <br />
+          tincidunt ut laoreet dolore magna
+        </mj-text>
+        <mj-button
+          align="right"
+          background-color="#fff"
+          color="#225431"
+          border="2px solid #FFD200"
+          border-radius="4px"
+          padding-top="20px"
+          width="65%"
+          font-size="16px"
+          href="https://exemple.com/"
+        >
+          READ MORE
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%" padding="20px">
+        <mj-image src="https://i.ibb.co/SPW46k3/image-5.png" alt="image-5" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding-top="35px">
+      <mj-column width="50%" padding="20px">
+        <mj-image src="https://i.ibb.co/0cL74r9/image-6.png" alt="image-4" />
+      </mj-column>
+      <mj-column width="50%" padding="4px" padding-top="50px">
+        <mj-text
+          font-size="22px"
+          color="#61ba7a"
+          font-weight="400"
+          padding-bottom="20px"
+          letter-spacing="2px"
+          align="left"
+          line-height="28px"
+        >
+          Use renewable/green <br />
+          energy
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="16px"
+          color="#225431"
+          line-height="22px"
+        >
+          Lorem ipsum dolor sit amet, <br />
+          consectetur adipiscing elit, sed <br />
+          diam nonummy nibh euismod <br />
+          tincidunt ut laoreet dolore magna
+        </mj-text>
+        <mj-button
+          align="left"
+          background-color="#fff"
+          color="#225431"
+          border="2px solid #FFD200"
+          border-radius="4px"
+          padding-top="20px"
+          width="65%"
+          font-size="16px"
+          href="https://exemple.com/"
+        >
+          READ MORE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding-top="35px">
+      <mj-column width="100%">
+        <mj-button
+          background-color="#FFD200"
+          color="#215431"
+          border-radius="4px"
+          padding-top="50px"
+          width="30%"
+          font-weight="500"
+          font-size="16px"
+          href="https://exemple.com/"
+        >
+          LEARN MORE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding-top="30px">
+      <mj-column width="100%">
+        <mj-image src="https://i.ibb.co/2FZLYsq/image-7.png" alt="image-7" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#60BA7A" padding-top="30px">
+      <mj-column width="100%">
+        <mj-text
+          color="#FFF"
+          font-size="40px"
+          font-weight="500"
+          padding-bottom="60px"
+          >What is green energy?</mj-text
+        >
+        <mj-image
+          src="https://i.ibb.co/vBdYMt1/image-8.png"
+          alt="image-8"
+          width="390px"
+        />
+        <mj-text
+          color="#FFF"
+          font-size="15px"
+          line-height="22px"
+          padding="50px 8px 8px 8px"
+          >Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+          <br />
+          nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+          <br />
+          volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
+          <br />
+          ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+          <br />
+          Duis autem vel eum iriure dolor in hendrerit in vulputate velit es
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#60BA7A" padding-top="50px">
+      <mj-column width="33,33%">
+        <mj-image
+          src="https://i.ibb.co/bRcSGBj/image-9.png"
+          alt="image-9"
+          width="161px"
+        />
+        <mj-text
+          color="#FFF"
+          font-weight="400"
+          font-size="22px"
+          padding-top="20px"
+          line-height="35px"
+          >Wind <br />
+          generators</mj-text
+        >
+      </mj-column>
+      <mj-column width="33,33%">
+        <mj-image
+          src="https://i.ibb.co/26jw1pc/image-10.png"
+          alt="image-10"
+          width="161px"
+        />
+        <mj-text
+          color="#FFF"
+          font-weight="400"
+          font-size="22px"
+          padding-top="20px"
+          line-height="35px"
+          >Solar panels</mj-text
+        >
+      </mj-column>
+      <mj-column width="33,33%">
+        <mj-image
+          src="https://i.ibb.co/Dph6RGw/image-11.png"
+          alt="image-11"
+          width="161px"
+        />
+        <mj-text
+          color="#FFF"
+          font-weight="400"
+          font-size="22px"
+          padding-top="20px"
+          line-height="35px"
+          >Hydro <br />
+          energy</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#60BA7A" padding-top="20px">
+      <mj-column width="100%">
+        <mj-button
+          background-color="#EDEDED"
+          color="#215431"
+          border-radius="4px"
+          padding-top="50px"
+          width="30%"
+          font-weight="500"
+          font-size="16px"
+          href="https://exemple.com/"
+        >
+          READ MORE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#60BA7A">
+      <mj-column width="100%" padding-top="100px">
+        <mj-image
+          width="106px"
+          src="https://i.ibb.co/7y07VHz/image-2.png"
+          alt="logo"
+        />
+        <mj-text
+          color="#FFF"
+          font-size="16px"
+          padding-top="35px"
+          line-height="30px"
+          padding="35px"
+          padding-bottom="15px"
+          >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
+          <br />
+          commodo ligula eget dolor. Aenean massa.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#60BA7A">
+      <mj-column width="45px" padding="5px">
+        <mj-image
+          href="https://exemple.com"
+          src="https://i.ibb.co/0XdmY89/image-12.png"
+          alt="image-12"
+        />
+      </mj-column>
+      <mj-column width="45px" padding="5px">
+        <mj-image
+          href="https://exemple.com"
+          src="https://i.ibb.co/Qn2MqLZ/image-13.png"
+          alt="image-13"
+        />
+      </mj-column>
+      <mj-column width="45px" padding="5px">
+        <mj-image
+          href="https://exemple.com"
+          src="https://i.ibb.co/Qjkz4xJ/image-14.png"
+          alt="image-14"
+        />
+      </mj-column>
+      <mj-column width="45px" padding="5px">
+        <mj-image
+          href="https://exemple.com"
+          src="https://i.ibb.co/c6Pckjp/image-15.png"
+          alt="image-15"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#60BA7A">
+      <mj-column width="100%" padding-top="20px" padding-bottom="50px">
+        <mj-text font-size="15px" color="#fff">
+          <a href="https://exemple.com/" class="link">Terms & Condition | </a>
+          <a href="https://exemple.com/" class="link">Contact Us | </a>
+          <a href="https://exemple.com/" class="link">Unsubscribe </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

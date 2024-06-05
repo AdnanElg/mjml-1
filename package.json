@@ -1,0 +1,14 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjml",
+  "scripts": {
+    "mjml": "mjml index.mjml -o index.html"
+  },
+  "author": "El Ghalbzouri Adnan",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.15.3"
+  }
+}
